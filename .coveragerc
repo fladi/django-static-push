@@ -1,0 +1,14 @@
+[paths]
+source =
+   src/django_static_push
+   */site-packages/django_static_push
+
+[run]
+branch = True
+source = django-static-push
+parallel = true
+
+[report]
+show_missing = true
+precision = 2
+omit = *migrations*
