@@ -81,7 +81,7 @@ Installation
 Documentation
 =============
 
-https://django-static-push.readthedocs.org/
+https://django-static-push.readthedocs.io/en/latest/
 
 Development
 ===========
