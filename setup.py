@@ -23,7 +23,7 @@ def read(*names, **kwargs):
 
 setup(
     name='django-static-push',
-    version='0.0.0',
+    version='0.1.0',
     license='BSD',
     description='Django staticfiles extension for HTTP/2 push',
     long_description='%s\n%s' % (
